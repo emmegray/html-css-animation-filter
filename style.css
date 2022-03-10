@@ -14,11 +14,18 @@
     height: 100px;
     background: red;
 }
+
+.ex-2-square:active {
+    transition: width 0.5s;
+    width: 300px;
+}
+
 .ex-3-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+
 .ex-4-square {
     width: 100px;
     height: 100px;
